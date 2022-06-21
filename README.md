@@ -1,0 +1,2 @@
+# Office-Managaement-System
+This is a software that makes the work easy of the Boss of the Office and to the employees of the office. Boss will be able to see that which employee has done how much work, can assign work to the particular employee, etc. Employees will be shown work of that particular employee only and that to priority wise so that the employee will not be having ambiguity. Other update delete functionalities are available for the work records.
